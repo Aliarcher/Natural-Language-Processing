@@ -1,5 +1,6 @@
 # Natural-Language-Processing
-![NLP](https://github.com/Aliarcher/Natural-Language-Processing/assets/53465519/47af3158-b56d-41f1-a544-2b57197c07cb)
+![NLP](https://github.com/Aliarcher/Natural-Language-Processing/assets/53465519/9145066e-003c-4371-b4cc-c280ea8d75e2)
+
 
 This repository contains simple and fundamental Projects in Natural Language Processing (under development....)
 ## Overview
