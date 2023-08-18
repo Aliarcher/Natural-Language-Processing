@@ -21,7 +21,10 @@ The Projects divided into:
   * Persian Topic Modeling (Not Started)
   * Persian Entity linking (Not Started)
   * Persian Text Summarization (Not Started)
+  * Persian Question and Answering (Not Started)
   * Conditional Persian Text Generation (Not Started)
+  * Persian Text to image Generation (Not Started)
+  * Persian Text to Video Generation (Not Started)
   * Persian to English Translation (Not Started)
   * .....
   
@@ -33,7 +36,10 @@ The Projects divided into:
   * English Topic Modeling (Not Started)
   * English Entity linking (Not Started)
   * English Text Summarization (Not Started)
+  * English Question and Answering (Not Started)
   * Conditional English Text Generation (Not Started)
+  * English Text to image Generation (Not Started)
+  * English Text to Video Generation (Not Started)
   * English to Persian Translation (Not Started)
   * .....
     
