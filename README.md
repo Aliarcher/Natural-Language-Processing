@@ -22,6 +22,7 @@ The Projects divided into:
   * Persian Entity linking (Not Started)
   * Persian Text Summarization (Not Started)
   * Conditional Persian Text Generation (Not Started)
+  * Persian to English Translation (Not Started)
   * .....
   
 * English
@@ -33,5 +34,6 @@ The Projects divided into:
   * English Entity linking (Not Started)
   * English Text Summarization (Not Started)
   * Conditional English Text Generation (Not Started)
+  * English to Persian Translation (Not Started)
   * .....
     
