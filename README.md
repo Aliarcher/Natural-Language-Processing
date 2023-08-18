@@ -14,14 +14,24 @@ NLP drives computer programs that translate text from one language to another, r
 ## Key Topics
 The Projects divided into:
 * Persian
-  * Persian Sentiment Analysis
-  * Persian Emotion Detection
-  * Persian Named Entity Recognition
+  * Persian Sentiment Analysis (Done)
+  * Persian Aspect based Sentiment Analysis (Under Development)
+  * Persian Emotion Detection (Done)
+  * Persian Named Entity Recognition (Under Development)
+  * Persian Topic Modeling (Not Started)
+  * Persian Entity linking (Not Started)
+  * Persian Text Summarization (Not Started)
+  * Conditional Persian Text Generation (Not Started)
   * .....
   
 * English
-  * English Sentiment Analysis
-  * English Emotion Detection
-  * English Named Entity Recognition
+  * English Sentiment Analysis (Under Development)
+  * English Aspect based Sentiment Analysis (Not Started)
+  * English Emotion Detection (Under Development)
+  * English Named Entity Recognition (Under Development)
+  * English Topic Modeling (Not Started)
+  * English Entity linking (Not Started)
+  * English Text Summarization (Not Started)
+  * Conditional English Text Generation (Not Started)
   * .....
     
