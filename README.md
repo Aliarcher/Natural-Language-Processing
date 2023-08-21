@@ -14,32 +14,32 @@ NLP drives computer programs that translate text from one language to another, r
 ## Key Topics
 The Projects divided into:
 * Persian
-  * Persian Sentiment Analysis (Done)
-  * Persian Aspect based Sentiment Analysis (Under Development)
-  * Persian Emotion Detection (Done)
-  * Persian Named Entity Recognition (Done)
-  * Persian Topic Modeling (Not Started)
-  * Persian Entity linking (Not Started)
-  * Persian Text Summarization (Not Started)
-  * Persian Question and Answering (Not Started)
-  * Conditional Persian Text Generation (Not Started)
-  * Persian Text to image Generation (Not Started)
-  * Persian Text to Video Generation (Not Started)
-  * Persian to English Translation (Not Started)
+  * Persian Sentiment Analysis - [x]
+  * Persian Aspect based Sentiment Analysis - [ ]
+  * Persian Emotion Detection - [x]
+  * Persian Named Entity Recognition - [x]
+  * Persian Topic Modeling - [ ]
+  * Persian Entity linking - [ ]
+  * Persian Text Summarization - [ ]
+  * Persian Question and Answering - [ ]
+  * Conditional Persian Text Generation - [ ]
+  * Persian Text to image Generation - [ ]
+  * Persian Text to Video Generation - [ ]
+  * Persian to English Translation - [ ]
   * .....
   
 * English
-  * English Sentiment Analysis (Under Development)
-  * English Aspect based Sentiment Analysis (Not Started)
-  * English Emotion Detection (Under Development)
-  * English Named Entity Recognition (Under Development)
-  * English Topic Modeling (Not Started)
-  * English Entity linking (Not Started)
-  * English Text Summarization (Not Started)
-  * English Question and Answering (Not Started)
-  * Conditional English Text Generation (Not Started)
-  * English Text to image Generation (Not Started)
-  * English Text to Video Generation (Not Started)
-  * English to Persian Translation (Not Started)
+  * English Sentiment Analysis  - [ ]
+  * English Aspect based Sentiment Analysis  - [ ]
+  * English Emotion Detection  - [ ]
+  * English Named Entity Recognition  - [ ]
+  * English Topic Modeling  - [ ]
+  * English Entity linking  - [ ]
+  * English Text Summarization  - [ ]
+  * English Question and Answering  - [ ]
+  * Conditional English Text Generation  - [ ]
+  * English Text to image Generation  - [ ]
+  * English Text to Video Generation  - [ ]
+  * English to Persian Translation  - [ ]
   * .....
     
