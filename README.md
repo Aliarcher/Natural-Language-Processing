@@ -12,7 +12,7 @@ NLP drives computer programs that translate text from one language to another, r
 
 
 ## Key Topics
-The Projects divided into:
+The Projects divided into following languages:
 * Persian
   - [ ] Persian Text Normalizer 
   - [x] Persian Sentiment Analysis 
