@@ -16,30 +16,30 @@ The Projects divided into:
 * Persian
   - [x] Persian Sentiment Analysis 
   - [ ] Persian Aspect based Sentiment Analysis 
-  * Persian Emotion Detection - [x]
-  * Persian Named Entity Recognition - [x]
-  * Persian Topic Modeling - [ ]
-  * Persian Entity linking - [ ]
-  * Persian Text Summarization - [ ]
-  * Persian Question and Answering - [ ]
-  * Conditional Persian Text Generation - [ ]
-  * Persian Text to image Generation - [ ]
-  * Persian Text to Video Generation - [ ]
-  * Persian to English Translation - [ ]
+  - [x] Persian Emotion Detection 
+  - [x] Persian Named Entity Recognition 
+  - [ ] Persian Topic Modeling 
+  - [ ] Persian Entity linking 
+  - [ ] Persian Text Summarization 
+  - [ ] Persian Question and Answering
+  - [ ] Conditional Persian Text Generation 
+  - [ ] Persian Text to image Generation 
+  - [ ] Persian Text to Video Generation 
+  - [ ] Persian to English Translation 
   * .....
   
 * English
-  * English Sentiment Analysis  - [ ]
-  * English Aspect based Sentiment Analysis  - [ ]
-  * English Emotion Detection  - [ ]
-  * English Named Entity Recognition  - [ ]
-  * English Topic Modeling  - [ ]
-  * English Entity linking  - [ ]
-  * English Text Summarization  - [ ]
-  * English Question and Answering  - [ ]
-  * Conditional English Text Generation  - [ ]
-  * English Text to image Generation  - [ ]
-  * English Text to Video Generation  - [ ]
-  * English to Persian Translation  - [ ]
+  - [ ] English Sentiment Analysis  
+  - [ ] English Aspect based Sentiment Analysis  
+  - [ ] English Emotion Detection  
+  - [ ] English Named Entity Recognition 
+  - [ ] English Topic Modeling  
+  - [ ] English Entity linking 
+  - [ ] English Text Summarization  
+  - [ ] English Question and Answering  
+  - [ ] Conditional English Text Generation 
+  - [ ] English Text to image Generation  
+  - [ ] English Text to Video Generation  
+  - [ ] English to Persian Translation 
   * .....
     
