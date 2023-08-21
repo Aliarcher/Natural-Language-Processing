@@ -17,7 +17,7 @@ The Projects divided into:
   * Persian Sentiment Analysis (Done)
   * Persian Aspect based Sentiment Analysis (Under Development)
   * Persian Emotion Detection (Done)
-  * Persian Named Entity Recognition (Under Development)
+  * Persian Named Entity Recognition (Done)
   * Persian Topic Modeling (Not Started)
   * Persian Entity linking (Not Started)
   * Persian Text Summarization (Not Started)
