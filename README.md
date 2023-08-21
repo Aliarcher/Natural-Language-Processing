@@ -14,6 +14,7 @@ NLP drives computer programs that translate text from one language to another, r
 ## Key Topics
 The Projects divided into:
 * Persian
+  - [ ] Persian Text Normalizer 
   - [x] Persian Sentiment Analysis 
   - [ ] Persian Aspect based Sentiment Analysis 
   - [x] Persian Emotion Detection 
@@ -29,6 +30,7 @@ The Projects divided into:
   * .....
   
 * English
+  - [ ] English Text Normalizer
   - [ ] English Sentiment Analysis  
   - [ ] English Aspect based Sentiment Analysis  
   - [ ] English Emotion Detection  
