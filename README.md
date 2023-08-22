@@ -34,7 +34,9 @@ The Projects divided into following languages:
 * English
   - [ ] English Text Normalizer
   - [ ] English Sentiment Analysis  
-  - [ ] English Aspect based Sentiment Analysis  
+  - [ ] English Aspect based Sentiment Analysis
+    - [ ] English Text-Aspect pair sentiment Analysis
+    - [ ] English Text Aspect term detection and sentiment Analysis  
   - [ ] English Emotion Detection  
   - [ ] English Named Entity Recognition 
   - [ ] English Topic Modeling  
