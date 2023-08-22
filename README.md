@@ -16,7 +16,9 @@ The Projects divided into following languages:
 * Persian
   - [ ] Persian Text Normalizer 
   - [x] Persian Sentiment Analysis 
-  - [ ] Persian Aspect based Sentiment Analysis 
+  - [ ] Persian Aspect based Sentiment Analysis
+    - [ ] Persian Text-Aspect pair sentiment Analysis
+    - [ ] Persian Text Aspect term detection and sentiment Analysis
   - [x] Persian Emotion Detection 
   - [x] Persian Named Entity Recognition 
   - [ ] Persian Topic Modeling 
