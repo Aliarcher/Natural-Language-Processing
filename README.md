@@ -18,7 +18,7 @@ The Projects divided into following languages:
   - [x] Persian Sentiment Analysis 
   - [ ] Persian Aspect based Sentiment Analysis
     - [ ] Persian Text-Aspect pair sentiment Analysis
-    - [ ] Persian Text Aspect term detection and sentiment Analysis
+    - [ ] Persian Text Aspect term detection and sentiment Analysis (End2End Aspect based sentiment Analysis)
   - [x] Persian Emotion Detection 
   - [x] Persian Named Entity Recognition 
   - [ ] Persian Topic Modeling 
@@ -36,7 +36,7 @@ The Projects divided into following languages:
   - [ ] English Sentiment Analysis  
   - [ ] English Aspect based Sentiment Analysis
     - [ ] English Text-Aspect pair sentiment Analysis
-    - [ ] English Text Aspect term detection and sentiment Analysis  
+    - [ ] English Text Aspect term detection and sentiment Analysis (End2End Aspect based sentiment Analysis) 
   - [ ] English Emotion Detection  
   - [ ] English Named Entity Recognition 
   - [ ] English Topic Modeling  
