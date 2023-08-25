@@ -21,10 +21,10 @@ The Projects divided into following languages:
     - [ ] Persian Text Aspect term detection and sentiment Analysis (End2End Aspect based sentiment Analysis)
   - [x] Persian Emotion Detection 
   - [x] Persian Named Entity Recognition 
-  - [ ] Persian Topic Modeling 
-  - [ ] Persian Entity linking 
-  - [ ] Persian Text Summarization 
-  - [ ] Persian Question and Answering
+  - [x] Persian Topic Modeling 
+  - [ ] Persian Entity linking
+  - [ ] Persian Question and Answering 
+  - [ ] Persian Text Summarization Generation
   - [ ] Conditional Persian Text Generation 
   - [ ] Persian Text to image Generation 
   - [ ] Persian Text to Video Generation 
@@ -40,9 +40,9 @@ The Projects divided into following languages:
   - [ ] English Emotion Detection  
   - [ ] English Named Entity Recognition 
   - [ ] English Topic Modeling  
-  - [ ] English Entity linking 
-  - [ ] English Text Summarization  
-  - [ ] English Question and Answering  
+  - [ ] English Entity linking
+  - [ ] English Question and Answering 
+  - [ ] English Text Summarization Generation  
   - [ ] Conditional English Text Generation 
   - [ ] English Text to image Generation  
   - [ ] English Text to Video Generation  
