@@ -25,6 +25,7 @@ The Projects divided into following languages:
   - [ ] Persian Entity linking
   - [ ] Persian Question and Answering 
   - [x] Persian Text Summarization Generation
+  - [x] Persian poet poem Generation
   - [ ] Conditional Persian Text Generation
   - [ ] Persian Text to image Generation 
   - [ ] Persian Text to Video Generation 
