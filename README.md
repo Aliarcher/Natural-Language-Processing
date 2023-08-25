@@ -24,8 +24,8 @@ The Projects divided into following languages:
   - [x] Persian Topic Modeling 
   - [ ] Persian Entity linking
   - [ ] Persian Question and Answering 
-  - [ ] Persian Text Summarization Generation
-  - [ ] Conditional Persian Text Generation 
+  - [x] Persian Text Summarization Generation
+  - [ ] Conditional Persian Text Generation
   - [ ] Persian Text to image Generation 
   - [ ] Persian Text to Video Generation 
   - [ ] Persian to English Translation 
