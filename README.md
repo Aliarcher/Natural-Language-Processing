@@ -23,7 +23,7 @@ The Projects divided into following languages:
   - [x] Persian Named Entity Recognition 
   - [x] Persian Topic Modeling 
   - [ ] Persian Entity linking
-  - [ ] Persian Paraphrasing
+  - [x] Persian Text Paraphrasing
   - [ ] Persian Masked language modeling
   - [x] Persian Question and Answering 
   - [x] Persian Text Summarization Generation
