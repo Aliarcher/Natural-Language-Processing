@@ -23,7 +23,9 @@ The Projects divided into following languages:
   - [x] Persian Named Entity Recognition 
   - [x] Persian Topic Modeling 
   - [ ] Persian Entity linking
-  - [ ] Persian Question and Answering 
+  - [x] Persian Text Paraphrasing
+  - [ ] Persian Masked language modeling
+  - [x] Persian Question and Answering 
   - [x] Persian Text Summarization Generation
   - [x] Conditional Persian Text Generation (Usecase: Generating poem by its poet name)
   - [ ] Persian Text to image Generation 
@@ -41,6 +43,8 @@ The Projects divided into following languages:
   - [ ] English Named Entity Recognition 
   - [ ] English Topic Modeling  
   - [ ] English Entity linking
+  - [ ] English Masked language modeling
+  - [ ] English Paraphrasing
   - [ ] English Question and Answering 
   - [ ] English Text Summarization Generation  
   - [ ] Conditional English Text Generation 
