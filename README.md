@@ -31,7 +31,7 @@ The Projects divided into following languages:
   - [ ] Persian Text to image Generation 
   - [ ] Persian Text to Video Generation 
   - [ ] Persian to English Translation 
-  - [ ] Persian Large Language Model
+  - [x] Persian Large Language Model
   
 * English
   - [ ] English Text Normalizer
