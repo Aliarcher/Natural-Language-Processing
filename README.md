@@ -32,6 +32,7 @@ The Projects divided into following languages:
   - [ ] Persian Text to Video Generation 
   - [ ] Persian to English Translation 
   - [x] Persian Large Language Model
+  - [x] Persian Large Language Model Inference with Simple RAG
   
 * English
   - [ ] English Text Normalizer
